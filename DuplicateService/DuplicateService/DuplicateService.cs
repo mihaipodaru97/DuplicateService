@@ -9,7 +9,7 @@ namespace DuplicateService
 {
     public class DuplicateService
     {
-        private const string connectionString = "Server=localhost;Port=5432;Database=postgres;Username=postgres;Password=postgres";
+        private const string connectionString = "Server=db;Port=5432;Database=postgres;Username=postgres;Password=postgres";
         public List<Car> GetCars()
         {
             var sql = "SELECT * FROM public.anunturi";
