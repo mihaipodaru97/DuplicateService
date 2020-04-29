@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateService", "DuplicateService\DuplicateService.csproj", "{1661B313-608C-4577-9807-1526930DAB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1661B313-608C-4577-9807-1526930DAB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1661B313-608C-4577-9807-1526930DAB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1661B313-608C-4577-9807-1526930DAB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1661B313-608C-4577-9807-1526930DAB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780C09E7-C120-44B0-9375-9E0C207563B2}
+	EndGlobalSection
+EndGlobal

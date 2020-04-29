@@ -1,0 +1,15 @@
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.exe
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.csprojAssemblyReference.cache
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.AssemblyInfoInputs.cache
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.AssemblyInfo.cs
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.deps.json
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.runtimeconfig.json
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.runtimeconfig.dev.json
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.dll
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\DuplicateService.pdb
+D:\DuplicateService\DuplicateService\DuplicateService\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.csproj.CoreCompileInputs.cache
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.csproj.CopyComplete
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.dll
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.pdb
+D:\DuplicateService\DuplicateService\DuplicateService\obj\Debug\netcoreapp3.1\DuplicateService.genruntimeconfig.cache
